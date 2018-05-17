@@ -7,7 +7,7 @@ function forLoop(array){
     if (i === 1){
      array.push("I am 1 strange loop.");
     }
-    else if (i = 0 || i < 25) {
+    else {
      array.push(`I am ${i} strange loops.`)
    }
   }
